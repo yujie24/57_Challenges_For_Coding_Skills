@@ -71,6 +71,15 @@ print("Hello,",name+",","nice to meet you!")
 
 > Homer has 5 characters.
 
+代码Python：
+
+```python
+
+str = input("What is the input string?")
+print(str,"has", len(str),"characters.")
+
+```
+
 约束：
 
 - 确保输出中包含原始的字符串。
