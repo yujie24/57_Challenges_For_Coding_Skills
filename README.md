@@ -10,10 +10,12 @@ Exercises for Programmers by Brian P.Hogan
 > When you write software, you need to be at the top of your game. Great programmers practice to keep their skills sharp. Get sharp and stay sharp with more than fifty practice exercises rooted in real-world scenarios. If you’re a new programmer, these challenges will help you learn what you need to break into the field, and if you’re a seasoned pro, you can use these exercises to learn that hot new language for your next gig.
 
 
-这是一本通用于提高所有语言、所有程序员的编程技能的书，一共列举了九个章节共57个问题。
-对于提高编程能力，训练编程思维来说，我认为确实很有用处。
+**这是一本通用于提高所有语言、所有程序员的编程技能的书，一共列举了九个章节共57个问题。对于提高编程能力，训练编程思维来说，我认为确实很有用处。
 
-说明：书中并没有教读者具体的代码，也没有指定具体某一种编程语言，而是教会大家编程的思维与能力。所以不论是C还是java，或者是我所用的python，都阔以使用。欢迎补充
+**说明：书中并没有教读者具体的代码，也没有指定具体某一种编程语言，而是教会大家编程的思维与能力。所以不论是C还是java，或者是我所用的python，都阔以使用。欢迎补充！**
+
+
+# 目录
 
 |章   节|问   题|
 |------|-------|
