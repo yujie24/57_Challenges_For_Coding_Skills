@@ -10,9 +10,13 @@
 
 代码：
 
-> name = input("What is your name?")
+'''python
 
-> print("Hello,",name+",","nice to meet you!")
+name = input("What is your name?")
+
+print("Hello,",name+",","nice to meet you!")
+
+'''
 
 约束：
 
