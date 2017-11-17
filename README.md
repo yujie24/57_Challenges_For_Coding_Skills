@@ -5,7 +5,7 @@ Brian P.Hogan
 
 ![Exercises for Programmers](https://github.com/yujie24/ChallengeForProgramming57/blob/master/Exercises%20for%20Programmers.jpg?raw=true)
 
->When you write software, you need to be at the top of your game. Great programmers practice to keep their skills sharp. Get sharp and stay sharp with more than fifty practice exercises rooted in real-world scenarios. If you’re a new programmer, these challenges will help you learn what you need to break into the field, and if you’re a seasoned pro, you can use these exercises to learn that hot new language for your next gig.
+> When you write software, you need to be at the top of your game. Great programmers practice to keep their skills sharp. Get sharp and stay sharp with more than fifty practice exercises rooted in real-world scenarios. If you’re a new programmer, these challenges will help you learn what you need to break into the field, and if you’re a seasoned pro, you can use these exercises to learn that hot new language for your next gig.
 
 
 这是一本通用于提高所有语言、所有程序员的编程技能的书，一共列举了九个章节共57个问题。
@@ -93,9 +93,7 @@ print("Hello,",name+",","nice to meet you!")
 
 >Who said it? Obi-Wan Kenobi
 
->Obi-Wan Kenobi says, "These aren't the droids
-
->you're looking for."
+>Obi-Wan Kenobi says, "These aren't the droids you're looking for."
 
 约束：
 
@@ -113,15 +111,15 @@ print("Hello,",name+",","nice to meet you!")
 
 示例输出：
 
->Enter a noun: dog
+> Enter a noun: dog
 
->Enter a verb: walk
+> Enter a verb: walk
 
->Enter an adjective: blue
+> Enter an adjective: blue
 
->Enter an adverb: quickly
+> Enter an adverb: quickly
 
->Do you walk your blue dog quickly? That's hilarious!
+> Do you walk your blue dog quickly? That's hilarious!
 
 约束：
 
