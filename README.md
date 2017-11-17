@@ -112,6 +112,16 @@ print(str,"has", len(str),"characters.")
 
 - 如果所用编程语言支持字符串插入或替换，在这个练习中不要使用。要使用字符串连接。
 
+代码Python:
+
+```python
+
+quote = input("What is the quote?")
+people = input("Who said it?")
+print(people,"says,","\""+quote+"\"")
+
+```
+
 挑战：
 
 - 在第7章中，你将练习使用数据的列表。修改这个程序，不再提示用户输入引语，而是自己创建一个保存引语及其作者的结构，然后使用例子中的格式显示所有的引语。由映射（map）组成的数组会是个不错的选择。
