@@ -2,10 +2,16 @@
 
 Exercises for Programmers by Brian P.Hogan
 
-<img src="https://github.com/yujie24/ChallengeForProgramming57/blob/master/Exercises%20for%20Programmers.jpg" width=50% height=50% />
+<center>
+  
+<img src="https://github.com/yujie24/ChallengeForProgramming57/blob/master/Exercises%20for%20Programmers.jpg" width=25% height=25% />
+$ $
+Figure 1.English cover
 
-<img src="https://github.com/yujie24/57_Challenges_For_Coding_Skills/blob/master/%E6%8C%91%E6%88%98%E7%BC%96%E7%A8%8B%E6%8A%80%E8%83%BD-57%E9%81%93%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8A%9F%E5%8A%9B%E6%B5%8B%E8%AF%95%E9%A2%98.jpg?raw=true" width=50% height=50% />
-
+<img src="https://github.com/yujie24/57_Challenges_For_Coding_Skills/blob/master/%E6%8C%91%E6%88%98%E7%BC%96%E7%A8%8B%E6%8A%80%E8%83%BD-57%E9%81%93%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8A%9F%E5%8A%9B%E6%B5%8B%E8%AF%95%E9%A2%98.jpg?raw=true" width=25% height=25% />
+$ $
+Figure 2.中文封面
+</center>
 > When you write software, you need to be at the top of your game. Great programmers practice to keep their skills sharp. Get sharp and stay sharp with more than fifty practice exercises rooted in real-world scenarios. If you’re a new programmer, these challenges will help you learn what you need to break into the field, and if you’re a seasoned pro, you can use these exercises to learn that hot new language for your next gig.
 
 
