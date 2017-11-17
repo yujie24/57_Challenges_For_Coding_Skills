@@ -8,6 +8,10 @@
 
 > Hello, Brian, nice to meet you!
 
+约束：
+
+- 输入、字符串连接、输出，这几部分要分开。
+
 代码：
 
 ```Python
@@ -17,10 +21,6 @@ name = input("What is your name?")
 print("Hello,",name+",","nice to meet you!")
 
 ```
-
-约束：
-
-- 输入、字符串连接、输出，这几部分要分开。
 
 挑战：
 
