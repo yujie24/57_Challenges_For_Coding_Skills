@@ -1,7 +1,6 @@
 # 挑战编程技能：57道程序员功力测试题
 
-《挑战编程技能：57道程序员功力测试题》
-Brian P.Hogan
+Exercises for Programmers by Brian P.Hogan
 
 ![Exercises for Programmers](https://github.com/yujie24/ChallengeForProgramming57/blob/master/Exercises%20for%20Programmers.jpg?raw=true)
 
