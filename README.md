@@ -38,6 +38,15 @@ Brian P.Hogan
 
 - 输入、字符串连接、输出，这几部分要分开。
 
+代码：
+
+```python
+name = input("What is your name?")
+
+print("Hello,",name+",","nice to meet you!")
+
+```
+
 挑战：
 
 - 不使用任何变量，编写一个新版本的程序。
