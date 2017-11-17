@@ -10,13 +10,13 @@
 
 代码：
 
-'''python
+```Python
 
 name = input("What is your name?")
 
 print("Hello,",name+",","nice to meet you!")
 
-'''
+```
 
 约束：
 
