@@ -3,6 +3,11 @@
 《挑战编程技能：57道程序员功力测试题》
 Brian P.Hogan
 
+![Exercises for Programmers](https://github.com/yujie24/ChallengeForProgramming57/blob/master/Exercises%20for%20Programmers.jpg?raw=true)
+
+>When you write software, you need to be at the top of your game. Great programmers practice to keep their skills sharp. Get sharp and stay sharp with more than fifty practice exercises rooted in real-world scenarios. If you’re a new programmer, these challenges will help you learn what you need to break into the field, and if you’re a seasoned pro, you can use these exercises to learn that hot new language for your next gig.
+
+
 这是一本通用于提高所有语言、所有程序员的编程技能的书，一共列举了九个章节共57个问题。
 对于提高编程能力，训练编程思维来说，我认为确实很有用处。
 
